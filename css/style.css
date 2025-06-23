@@ -263,7 +263,7 @@ ol {
 -----------------------*/
 
 .header {
-    background: rgba(92, 64, 51, 0.8) !important; /* mörkbrun med lite transparens */
+    background: rgba(245, 235, 221, 0.8) !important; /* gräddvit med lite transparens */
     position: absolute;
     left: 0;
     top: 0;
@@ -273,7 +273,7 @@ ol {
 
 .header.header--normal {
     position: relative;
-    background: #5C4033 !important; /* solid mörkbrun */
+    background: rgba(245, 235, 221, 1) !important; /* solid gräddvit */
 }
 
 .header__logo {
