@@ -263,7 +263,7 @@ ol {
 -----------------------*/
 
 .header {
-	background: rgba(42, 1, 74, 0.5);
+	    background: rgba(251, 175, 133, 0.7) !important; /* aprikos med lite transparens */
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -273,7 +273,7 @@ ol {
 
 .header.header--normal {
 	position: relative;
-	background: #290849;
+	background: #FBAF85 !important; /* solid aprikos */
 }
 
 .header__logo {
