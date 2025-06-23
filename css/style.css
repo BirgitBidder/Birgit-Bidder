@@ -422,6 +422,13 @@ ol {
 	margin-top: 22px;
 }
 
+.hero__text h1,
+.hero__text p,
+.hero__text span {
+    color: white !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
 .hero__text p {
 	color: #ffffff;
 	margin-bottom: 20px;
