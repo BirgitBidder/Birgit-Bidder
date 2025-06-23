@@ -263,17 +263,18 @@ ol {
 -----------------------*/
 
 .header  {
-    background: linear-gradient(135deg, #FFD700, #FFC700, #FFB700, #FFD700) !important;
+    background: linear-gradient(135deg, rgba(255, 215, 0, 0.6), rgba(255, 199, 0, 0.5), rgba(255, 183, 0, 0.6), rgba(255, 215, 0, 0.6)) !important;
     position: absolute;
     left: 0;
     top: 0;
     width: 100%;
     z-index: 9;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .header.header--normal {
     position: relative;
-    background: linear-gradient(135deg, #FFD700, #FFC700, #FFB700, #FFD700) !important;
+    background: linear-gradient(135deg, rgba(255, 215, 0, 0.6), rgba(255, 199, 0, 0.5), rgba(255, 183, 0, 0.6), rgba(255, 215, 0, 0.6)) !important;
 }
 
 .header__logo {
