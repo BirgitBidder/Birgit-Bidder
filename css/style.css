@@ -263,7 +263,12 @@ ol {
 -----------------------*/
 
 .header {
-	    background: rgba(251, 175, 133, 0.7) !important; /* aprikos med lite transparens */
+    background: rgba(241, 90, 41, 0.85) !important; /* Orange med lite transparens */
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 9;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -273,7 +278,7 @@ ol {
 
 .header.header--normal {
 	position: relative;
-	background: #FBAF85 !important; /* solid aprikos */
+    background: #F15A29 !important; /* Solid orange */
 }
 
 .header__logo {
