@@ -262,8 +262,8 @@ ol {
   Header
 -----------------------*/
 
-.header {
-    background: rgba(245, 235, 221, 0.8) !important; /* gräddvit med lite transparens */
+.header  {
+    background: linear-gradient(135deg, #FFD700, #FFC700, #FFB700, #FFD700) !important;
     position: absolute;
     left: 0;
     top: 0;
@@ -273,7 +273,7 @@ ol {
 
 .header.header--normal {
     position: relative;
-    background: rgba(245, 235, 221, 1) !important; /* solid gräddvit */
+    background: linear-gradient(135deg, #FFD700, #FFC700, #FFB700, #FFD700) !important;
 }
 
 .header__logo {
