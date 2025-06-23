@@ -2935,5 +2935,5 @@ ol {
 .hero__text h1,
 .hero__text p,
 .hero__text span {
-    color: black;
+    color: black !important;
 }
