@@ -263,22 +263,18 @@ ol {
 -----------------------*/
 
 .header {
-    background: rgba(241, 90, 41, 0.85) !important; /* Orange med lite transparens */
+    background: rgba(153, 178, 102, 0.7) !important; /* transparent 70-talsgrön */
     position: absolute;
     left: 0;
     top: 0;
     width: 100%;
     z-index: 9;
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 100%;
-	z-index: 9;
 }
 
 .header.header--normal {
-	position: relative;
-    background: #F15A29 !important; /* Solid orange */
+    position: relative;
+    background: #99B266 !important; /* solid 70-talsgrön */
+}
 }
 
 .header__logo {
