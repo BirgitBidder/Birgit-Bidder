@@ -2935,4 +2935,6 @@ ol {
 		background-position: top 0 left 19%;
 	}
 }
-
+.col-lg-6:last-child {
+    padding-left: 4rem; /* Justera värdet efter hur mycket du vill flytta texten */
+}
